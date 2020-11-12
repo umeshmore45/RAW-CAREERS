@@ -585,6 +585,12 @@ i {
     color: black;
   }
 
+  span {
+    color: #0078d7;
+    font-weight: bold;
+    font-size: 1vh;
+  }
+
   .footer {
     display: flex;
     flex-direction: column;
