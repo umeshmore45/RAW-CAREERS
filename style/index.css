@@ -441,7 +441,7 @@ i {
   text-decoration: none;
   color: white;
 }
-.footer a:hover {
+.footer-items:hover {
   border-color: brown;
   border-bottom: 1px solid #eee5df;
 }
