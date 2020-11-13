@@ -16,13 +16,15 @@ banner-contain class contain **Text-Heading.**
 # Main
 
 Main tag contain **Heading , Paraghraph & Aside Images.**
-grid contain **All Photos**
+
+Grid contain **All Photos**
 
 
 # Footer
 
 Footer tad contain **Icons & Top Button.**
-Grid contain **All Footer align**
+
+Grid contain **All Footer Alignment**
 # Css
 
 Css Contain All The **Stylesheet.**
