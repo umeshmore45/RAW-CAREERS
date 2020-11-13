@@ -22,7 +22,7 @@ Grid contain **All Photos**
 
 # Footer
 
-Footer tad contain **Icons & Top Button.**
+Footer tad contain **Icons & Button.**
 
 Grid contain **All Footer Alignment**
 # Css
