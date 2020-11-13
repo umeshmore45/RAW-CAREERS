@@ -441,6 +441,10 @@ i {
   text-decoration: none;
   color: white;
 }
+.footer a:hover {
+  border-color: brown;
+  border-bottom: 1px solid #eee5df;
+}
 
 @media only screen and (max-width: 768px) {
   body {
